@@ -15,10 +15,6 @@
                 android:layout_width="match_parent"
                 android:layout_height="123dp" app:srcCompat="?android:attr/fingerprintAuthDrawable"
                 android:id="@+id/imageView"/>
-        <TextView
-                android:text="Selecione um tipo de usuário para efetuar login:"
-                android:layout_width="20dp"
-                android:layout_height="30dp" android:id="@+id/textView2"/>
         <Button
                 android:text="Administrador"
                 android:layout_width="match_parent"
